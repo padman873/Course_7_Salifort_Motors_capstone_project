@@ -81,7 +81,7 @@ Based on the analysis and model insights, the following recommendations are prop
 
 ## How to Run the Code
 
-1.  Clone this repository: `git clone [repository URL]`
+1.  Clone this repository: `https://github.com/padman873/Course_7_Salifort_Motors_capstone_project`
 2.  Navigate to the project directory.
 3.  Ensure you have Python and Jupyter Notebook installed.
 4.  Install necessary libraries (pandas, numpy, matplotlib, seaborn, scikit-learn): `pip install pandas numpy matplotlib seaborn scikit-learn`
