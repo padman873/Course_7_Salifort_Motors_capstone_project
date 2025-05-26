@@ -4,6 +4,19 @@
 
 This project aims to analyze an HR dataset for "Salifort Motors" to understand the factors contributing to employee turnover. The primary goals are to identify key drivers of attrition, build a predictive model to identify employees likely to leave, and provide data-driven recommendations to help the HR department improve employee retention and reduce associated costs.
 
+## 🎯 Project Goals
+
+1.  Perform comprehensive Exploratory Data Analysis (EDA) to uncover patterns and relationships related to employee turnover.
+2.  Identify the key factors that significantly influence an employee's decision to leave the company.
+3.  Develop a baseline predictive model (Logistic Regression) to classify employees as likely to leave or stay.
+4.  Evaluate the model's performance, paying close attention to its ability to predict the minority class (employees who leave).
+5.  Propose actionable, data-driven recommendations for the HR department to improve employee retention.
+
+## 📂 Project Notebook & Code
+
+The complete Jupyter Notebook for this project, including all data analysis, visualizations, and model building steps, can be accessed via the following link:
+
+[View the Project Notebook](https://github.com/padman873/Course_7_Salifort_Motors_capstone_project/blob/main/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
 ## 📊 Dataset
 
 The dataset used contains information for approximately 15,000 employees (before cleaning) across 10 features, including:
@@ -17,14 +30,6 @@ The dataset used contains information for approximately 15,000 employees (before
 * `department`: Employee's department.
 * `salary`: Salary level (low, medium, high).
 * `left`: Target variable indicating whether the employee left (1) or stayed (0).
-
-## 🎯 Project Goals
-
-1.  Perform comprehensive Exploratory Data Analysis (EDA) to uncover patterns and relationships related to employee turnover.
-2.  Identify the key factors that significantly influence an employee's decision to leave the company.
-3.  Develop a baseline predictive model (Logistic Regression) to classify employees as likely to leave or stay.
-4.  Evaluate the model's performance, paying close attention to its ability to predict the minority class (employees who leave).
-5.  Propose actionable, data-driven recommendations for the HR department to improve employee retention.
 
 ## 🛠️ Methodology & Workflow
 
@@ -78,7 +83,7 @@ Based on the EDA and baseline model results:
 4.  **Department-Specific Strategies:** Investigate underlying reasons for higher leaver counts in key departments (Sales, Technical, Support) and develop tailored retention strategies.
 5.  **Proactive HR Analytics:** Continue to invest in and leverage HR analytics to monitor trends, predict risks, and proactively address potential turnover drivers.
 
-## 🛠️ Technologies & Libraries Used
+## 💻 Technologies & Libraries Used
 
 * **Python 3**
 * **Pandas:** For data manipulation and analysis.
@@ -96,3 +101,4 @@ Based on the EDA and baseline model results:
 * **Feature Engineering:** Explore creation of new features if deemed beneficial.
 * **Deeper Dive:** Conduct further analysis on department-specific turnover reasons or the impact of manager effectiveness if data becomes available.
 
+---
